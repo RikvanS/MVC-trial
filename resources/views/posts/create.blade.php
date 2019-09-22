@@ -22,7 +22,7 @@
                     </div>
 
                     <div class="form-group">
-                        <label for="content">title:</label>
+                        <label for="content">Title:</label>
                         <input type="text" class="form-control" name="title"/>
                     </div>
 
@@ -31,7 +31,7 @@
                         <input type="text" class="form-control" name="content"/>
                     </div>
 
-                    <button type="submit" class="btn btn-primary-outline">Add post</button>
+                    <button type="submit" class="btn btn-primary">Add post</button>
                 </form>
             </div>
         </div>

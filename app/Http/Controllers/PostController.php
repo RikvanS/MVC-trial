@@ -40,6 +40,7 @@ class PostController extends Controller
         $request->validate([
             'content'=>'required',
             'user'=>'required',
+            'title'=>'required'
         ]);
 
         $post = new Post([
